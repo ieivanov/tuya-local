@@ -15,6 +15,7 @@ entities:
         mapping:
           - dps_val: "off"
             value: 0
+            hidden: true
           - dps_val: low
             value: 25
           - dps_val: middle
